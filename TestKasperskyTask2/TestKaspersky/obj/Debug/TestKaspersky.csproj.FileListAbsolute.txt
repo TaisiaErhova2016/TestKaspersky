@@ -1,0 +1,6 @@
+C:\Users\админ\Source\Repos\MyFirstProject\TestKaspersky\TestKaspersky\bin\Debug\TestKaspersky.exe.config
+C:\Users\админ\Source\Repos\MyFirstProject\TestKaspersky\TestKaspersky\bin\Debug\TestKaspersky.exe
+C:\Users\админ\Source\Repos\MyFirstProject\TestKaspersky\TestKaspersky\bin\Debug\TestKaspersky.pdb
+C:\Users\админ\Source\Repos\MyFirstProject\TestKaspersky\TestKaspersky\obj\Debug\TestKaspersky.csprojResolveAssemblyReference.cache
+C:\Users\админ\Source\Repos\MyFirstProject\TestKaspersky\TestKaspersky\obj\Debug\TestKaspersky.exe
+C:\Users\админ\Source\Repos\MyFirstProject\TestKaspersky\TestKaspersky\obj\Debug\TestKaspersky.pdb

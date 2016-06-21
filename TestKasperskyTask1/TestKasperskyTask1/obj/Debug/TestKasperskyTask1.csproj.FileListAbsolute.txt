@@ -1,0 +1,5 @@
+C:\Users\админ\Source\Repos\MyFirstProject\TestKasperskyTask1\TestKasperskyTask1\bin\Debug\TestKasperskyTask1.exe.config
+C:\Users\админ\Source\Repos\MyFirstProject\TestKasperskyTask1\TestKasperskyTask1\bin\Debug\TestKasperskyTask1.exe
+C:\Users\админ\Source\Repos\MyFirstProject\TestKasperskyTask1\TestKasperskyTask1\bin\Debug\TestKasperskyTask1.pdb
+C:\Users\админ\Source\Repos\MyFirstProject\TestKasperskyTask1\TestKasperskyTask1\obj\Debug\TestKasperskyTask1.exe
+C:\Users\админ\Source\Repos\MyFirstProject\TestKasperskyTask1\TestKasperskyTask1\obj\Debug\TestKasperskyTask1.pdb
